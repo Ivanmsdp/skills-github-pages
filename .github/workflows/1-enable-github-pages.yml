@@ -36,6 +36,8 @@ jobs:
     # We will only run this action when:
     # 1. This repository isn't the template repository.
     # 2. The step is currently 1.
+    https://github.com/Ivanmsdp/SSH_Telegram-IvanM.git
+    https://github.com/Ivanmsdp/Enlace--IvanM.git
     # Reference: https://docs.github.com/en/actions/learn-github-actions/contexts
     # Reference: https://docs.github.com/en/actions/learn-github-actions/expressions
     if: >-
