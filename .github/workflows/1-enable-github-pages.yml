@@ -8,7 +8,8 @@ name: Step 1, Enable GitHub Pages
 on:
   workflow_dispatch:
   page_build:
-
+  https://github.com/Ivanmsdp/Enlace--IvanM.git
+https://github.com/Ivanmsdp/SSH_Telegram-IvanM.git
 # Reference: https://docs.github.com/en/actions/security-guides/automatic-token-authentication
 permissions:
   # Need `contents: read` to checkout the repository.
